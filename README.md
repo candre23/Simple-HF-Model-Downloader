@@ -17,5 +17,4 @@ For the GUI version, it's pretty self explanatory.
 
 ![hfdl](https://github.com/user-attachments/assets/bd747082-b027-4c78-bf23-0b3f33f76458)
 
-Full disclosure:  I do not know python.  This was programmed by AI (Command R+) at my direction.  The process was more arduous than you probably think, 
-requiring a few hours and several dozen revisions.  But it got there in the end. Since "I" did not write it, I am releasing it into the public domain.
+Full disclosure:  I do not know python.  This is low-effort vibeslop.
